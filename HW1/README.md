@@ -57,15 +57,10 @@ def split_and_merge(points, epsilon=0.5):
 
 ## 📊 Результаты (Часть 1)
 
-### Исходное облако точек
-
-![Исходное облако точек](results/1_original_points.png)
-*Сгенерированные точки стен с добавленным шумом (1138 точек)*
-
-### Результат Split and Merge (RDP)
+### Исходное облако точек и езультат Split and Merge (RDP)
 
 ![Split and Merge результат](results/2_split_and_merge_result.png)
-*Результат работы алгоритма Split and Merge:*
+*Результат Split and Merge (RDP) и результат работы алгоритма Split and Merge:*
 - *Красные линии — найденные стены*
 - *Красные кружки — ключевые точки*
 - *Зеленые крестики — истинные углы комнаты*
