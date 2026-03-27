@@ -59,12 +59,12 @@ def split_and_merge(points, epsilon=0.5):
 
 ### Исходное облако точек
 
-![Исходное облако точек](wall_results/1_original_points.png)
+![Исходное облако точек](results/1_original_points.png)
 *Сгенерированные точки стен с добавленным шумом (1138 точек)*
 
 ### Результат Split and Merge (RDP)
 
-![Split and Merge результат](wall_results/2_split_and_merge_result.png)
+![Split and Merge результат](results/2_split_and_merge_result.png)
 *Результат работы алгоритма Split and Merge:*
 - *Красные линии — найденные стены*
 - *Красные кружки — ключевые точки*
@@ -160,7 +160,7 @@ def ransac_plane(points, distance_threshold=0.03, max_trials=1000):
 
 ### Визуализация результатов RANSAC
 
-![RANSAC результат](wall_results/3_ransac_3d.png)
+![RANSAC результат](results/3_ransac_3d.png)
 *3D визуализация: зеленые точки — плоскость пола/стола, красные точки — препятствия*
 
 ### Статистика детектирования
