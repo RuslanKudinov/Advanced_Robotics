@@ -52,7 +52,7 @@ advanced_robotics/
 ├── HW2/                # Фильтр Калмана
 │   ├── README.md
 │   ├── kalman_filter.ipynb
-│   └── results/
+│   └── kf_results/
 ├── HW3/                # EKF ориентации
 │   ├── README.md
 │   ├── attitude_ekf.ipynb
