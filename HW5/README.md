@@ -25,7 +25,7 @@
 - **Стартовая точка:** (10, 10) - левый нижний угол
 - **Целевая точка:** (190, 190) - правый верхний угол
 
-![Карта окружения](HW5/path_planning_results/custom_map_visualization.png)
+![Карта окружения](path_planning_results/custom_map_visualization.png)
 *Карта препятствий: Черный = стена, Белый = проход*
 
 ---
