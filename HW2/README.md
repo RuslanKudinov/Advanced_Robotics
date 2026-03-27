@@ -116,9 +116,8 @@ homework_2/
 ├── kf_results.csv
 └── kf_results/
     ├── 1_full_path.png
-    ├── 2_initial_segment.png
-    ├── 3_error.png
-    └── 4_velocity.png
+    ├── 2_error.png
+    └── 3_velocity.png
 ```
 
 ---
