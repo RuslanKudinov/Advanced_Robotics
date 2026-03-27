@@ -230,7 +230,6 @@ homework_1/
 ├── README.md                              # Этот файл
 ├── wall_detection.ipynb                   # Jupyter notebook с кодом
 └── wall_results/
-    ├── 1_original_points.png              # Исходное облако точек (2D)
     ├── 2_split_and_merge_result.png       # Результат Split and Merge (2D)
     └── 3_ransac_3d.png                    # Результат RANSAC (3D)
 ```
@@ -274,14 +273,3 @@ homework_1/
 *Последнее обновление: Март 2026*
 ```
 
-## 📋 Что нужно сделать:
-
-1. **Создай папку** `wall_results/` в репозитории
-2. **Помести туда три скриншота:**
-   - `1_original_points.png` — исходное облако точек (первый график)
-   - `2_split_and_merge_result.png` — результат Split and Merge (второй график)
-   - `3_ransac_3d.png` — 3D результат RANSAC (скриншот из Plotly)
-
-3. **Скопируй README.md** в корень репозитория
-
-Готово! 🔥
