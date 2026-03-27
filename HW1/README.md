@@ -60,6 +60,7 @@ def split_and_merge(points, epsilon=0.5):
 ### Исходное облако точек и результат Split and Merge (RDP)
 
 ![Split and Merge результат](results/2_split_and_merge_result.png)
+
 *Результат Split and Merge (RDP) и результат работы алгоритма Split and Merge:*
 - *Красные линии — найденные стены*
 - *Красные кружки — ключевые точки*
