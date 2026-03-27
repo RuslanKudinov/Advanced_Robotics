@@ -259,4 +259,3 @@ path_planning_assignment/
 ```
 
 
-Теперь README полностью на русском, готов для защиты! 🔥
